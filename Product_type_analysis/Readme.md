@@ -12,3 +12,8 @@ Data desciption:
 - click_true_rate - detail views to search views ratio
 
 Manufacturer names were changed to the fake ones.
+
+Goal:
+Research how more expensive products impact on the effectiveness of an advertisement.
+Search for patterns in the data.
+What additional data could be used in the analysis?
