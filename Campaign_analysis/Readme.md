@@ -1,0 +1,1 @@
+ The team wants to improve campaign targeting. To establish a proof of concept they provided data from previous campaign for both control and targeted groups, which were selected at random from non-users before the campaign start. Aim of the campaign was to persuade customers to subscribe to the term deposit.
